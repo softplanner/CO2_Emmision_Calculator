@@ -1,0 +1,10 @@
+com\sap\test\helper\CO2eHelper.class
+com\sap\test\factory\Transporter.class
+com\sap\test\factory\WeightUnit.class
+com\sap\test\helper\CLIParameters.class
+com\sap\test\Main.class
+com\sap\test\validator\DistanceValidator.class
+com\sap\test\factory\UnitOfDistance.class
+com\sap\test\service\GreenHouseService.class
+com\sap\test\factory\Vehicle.class
+com\sap\test\factory\VehicleFactory.class
